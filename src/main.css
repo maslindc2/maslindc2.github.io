@@ -20,16 +20,16 @@ body, html {
 }
 
 .box{
-	background: #D78D74;
+	background: #5E5E5E;
 	color: #EEE4DD;
 	padding: 50px;
 	border-style: solid;
 	border-width: 10px 10px 30px 10px;
-	border-color: #EEE4DD;
+	border-color: #F4F4F4;
 	float: left;
 	margin: 15px;
 	min-width: 6ch;
-	box-shadow: 15px 15px #EEE4DDCC;
+	box-shadow: 15px 15px #D0D0D0;
 	position: relative;
 }
 
