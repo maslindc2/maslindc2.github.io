@@ -20,7 +20,7 @@ body, html {
 }
 
 .box{
-	background: #5E5E5E;
+	background: #9DA79E;
 	color: #EEE4DD;
 	padding: 50px;
 	border-style: solid;
@@ -68,5 +68,5 @@ a{
 }
 
 a:hover{
-	color: #D7BAAD; 
+	color: #c2eac8; 
 }
