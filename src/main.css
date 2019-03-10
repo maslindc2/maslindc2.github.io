@@ -12,7 +12,7 @@ body, html {
     display: grid;
     overflow: hidden;
 	  background-image: url(background/bg.jpg), url(background/bg.png);
-	  background-size: 1540px 770px;
+	  background-size: 1920px 1080px;
 }
 
 .center {
