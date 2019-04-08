@@ -20,7 +20,7 @@ body, html {
 }
 
 .box{
-	background: #9DA79E;
+	background: #E49380;
 	color: #EEE4DD;
 	padding: 50px;
 	border-style: solid;
@@ -29,7 +29,7 @@ body, html {
 	float: left;
 	margin: 15px;
 	min-width: 6ch;
-	box-shadow: 15px 15px #D0D0D0;
+	box-shadow: 15px 15px #E6C0B2;
 	position: relative;
 }
 
@@ -43,7 +43,7 @@ body, html {
 	margin: 15px;
 	width: 10ch;
 	float:right;
-	box-shadow: 15px 15px #071D22;
+	box-shadow: 15px 15px #0B2917;
 	clear:both;
 }
 
@@ -68,5 +68,5 @@ a{
 }
 
 a:hover{
-	color: #c2eac8; 
+	color: #725E55;
 }
